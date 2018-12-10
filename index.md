@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jasonshulruff/HCI-Project-Tracker/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Jason and Justin's Final HCI Prototype
+Take a look at the progress we have made in designing our Project Tracker
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
