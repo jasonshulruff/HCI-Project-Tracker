@@ -1,11 +1,11 @@
 ## Jason and Justin's Final HCI Prototype
 Take a look at the progress we have made in designing our Project Tracker
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### All Group Assignments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Group 2 - Project Planning
+https://docs.google.com/document/d/1nwn6Xy_cSHDOk14Fl54i43dAZOR1uLZVTJ9HNe5OZz0/edit?usp=sharing 
 
 ```markdown
 Syntax highlighted code block
