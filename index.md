@@ -1,7 +1,7 @@
 ## Jason and Justin's Final HCI Prototype
 Take a look at the progress we have made in designing our Project Tracker.\
 Jason Shulruff, jash4402@colorado.edu \
-Justin Jiang, juji9496@colorado.edu \ 
+Justin Jiang, juji9496@colorado.edu 
 
 
 ### All Group Assignments
