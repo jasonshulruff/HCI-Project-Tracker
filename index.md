@@ -1,14 +1,14 @@
 ## Jason and Justin's Final HCI Prototype
-Take a look at the progress we have made in designing our Project Tracker.\
-Jason Shulruff, jash4402@colorado.edu \
+Take a look at the progress we have made in designing our Project Tracker.  
+Jason Shulruff, jash4402@colorado.edu  
 Justin Jiang, juji9496@colorado.edu 
 
 
 ### All Group Assignments
 
-Project Planning \
-https://docs.google.com/document/d/1nwn6Xy_cSHDOk14Fl54i43dAZOR1uLZVTJ9HNe5OZz0/edit?usp=sharing \
-Design Research \
+Project Planning  
+https://docs.google.com/document/d/1nwn6Xy_cSHDOk14Fl54i43dAZOR1uLZVTJ9HNe5OZz0/edit?usp=sharing  
+Design Research  
 https://docs.google.com/document/d/1BF56DhrLOMw5cdOoTiKdVxgl3WGmDF1ZMEhWcdgiqwM/edit?usp=sharing \
 Paper Prototype \
 https://drive.google.com/file/d/1IltyAx6oKbtR6KnGiv3x23rNxvbohBO8/view?usp=sharing \
