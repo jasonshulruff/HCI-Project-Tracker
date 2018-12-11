@@ -14,8 +14,8 @@ Paper Prototype \
 https://drive.google.com/file/d/1IltyAx6oKbtR6KnGiv3x23rNxvbohBO8/view?usp=sharing \
 Usability and Heuristic Evaluation \
 https://docs.google.com/document/d/11l8couSctiRou0YAaoFcbRQqRR9f-wYb-XkXd5w-FjU/edit?usp=sharing \
-Final Prototype and Storyboard \ 
-https://drive.google.com/file/d/11yte_voyIglafJMoV9aFrOmNGWz3Oo1p/view?usp=sharing \
+Final Prototype and Storyboard  
+https://drive.google.com/file/d/11yte_voyIglafJMoV9aFrOmNGWz3Oo1p/view?usp=sharing 
 ```markdown
 Syntax highlighted code block
 
