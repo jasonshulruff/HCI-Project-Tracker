@@ -16,4 +16,8 @@ Usability and Heuristic Evaluation
 https://docs.google.com/document/d/11l8couSctiRou0YAaoFcbRQqRR9f-wYb-XkXd5w-FjU/edit?usp=sharing    
 Final Prototype and Storyboard    
 https://drive.google.com/file/d/11yte_voyIglafJMoV9aFrOmNGWz3Oo1p/view?usp=sharing   
+Final Prototype  
+https://www.figma.com/file/07AyNyvbX3amYwEvEvEg3166/Final-Prototype?node-id=0%3A1  
+Video  
+https://drive.google.com/open?id=1quefxCk9n8sBCMBKhNvaQl06SpkDTpu3
 
